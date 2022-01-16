@@ -17,6 +17,22 @@ Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
+How we protect the online privacy of children under 13
+NT .Studio takes many precautions to protect the online privacy of children. Whenever we refer to “children” in this Privacy Policy, we mean children under the age of 13. Please help us in protecting children’s privacy by instructing them to never provide any personal information (full name, email address, home address, phone number, etc.) without your permission.
+
+NT .Studio follows the principles of the Children’s Online Privacy Protection Act (“COPPA”), a U.S. law designed to protect the online privacy of children, in our online services and Apps that are directed to children. If you would like to learn more about COPPA, you can refer to the “Children’s Privacy” section of the Federal Trade Commission’s website.
+
+Currently, NT .Studio does not knowingly collect any personal information from children or within the child-directed portions of our Platforms except as otherwise outlined in this Privacy Policy. If we were to collect and store personal information from children, we would obtain the consent of a parent or legal guardian before such collection, unless the collection of information falls within an exception that is permitted under COPPA.
+
+In our Apps directed to children users, we collect information which includes persistent identifiers such as a device identifier (“device ID”) or an Internet Protocol address (“IP address”). This information is collected solely for the purpose of providing functionality and support for our internal operations and optimizing our users’ application experience.
+
+NT .Studio does not permit behaviorally-targeted advertising to children in the Apps or in the Platforms where we have actual knowledge that the user is under the age of 13.
+
+If you believe that we may have unintentionally collected your child’s personal information without your prior consent, you may contact NT .Studio’ Privacy Officer
+
+
+
+By email: thuandev2706@gmail.com
 Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
